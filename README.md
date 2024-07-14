@@ -24,4 +24,4 @@ Bachelor of Science in Computer Science 2021 - Present
 - Data Visualization Tools: PowerBI Desktop, Tableau Public
 - Programming Languages: Java, SQL, CSS, HTML, Python, JavaScript
 - DBMS: DB2
-- Dev Tools: Lucidchart, Eclipse, IntelliJ
+- Dev Tools: Lucidchart, Eclipse, IntelliJ, VS Code
