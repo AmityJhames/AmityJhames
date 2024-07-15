@@ -6,8 +6,8 @@ Bachelor of Science in Computer Science 2021 - Present
 [Business Analytics with Excel](https://simpli-web.app.link/e/Q2bsbh8TdDb) by SimpliLearn (September 8, 2023) <br>
 [Oracle Cloud Infrastracture 2022 Certified Foundations Associate](https://catalog-education.oracle.com/pls/certview/sharebadge?id=00BDD5616E9BB09603B3DC7B9DBBC70E2B768EBF029F3F360B4619ADBF641624) by Oracle (December 12, 2022) <br>
 [SQL and Relational Databases](https://courses.cognitiveclass.ai/certificates/1788119a5ad5406da40a8a96abfd7d9e) by Cognitive Class (November 7, 2022)
-[Data Analytics Essentials](![image](https://github.com/user-attachments/assets/d06c0fc5-52fa-4bb9-80d9-cdd17f14137d)by Cisco (January 2, 2024)
-[Introduction to Data Science](![image](https://github.com/user-attachments/assets/6aadb503-9cc4-4a34-8480-89832b70274b)by Cisco (July 15,2024)
+[Data Analytics Essentials](![image]((https://drive.google.com/file/d/1cXih4EUlOuZE8Ukz7MINtjbJ6Qjt4KPX/view?usp=sharing))by Cisco (January 2, 2024)
+[Introduction to Data Science](![image](https://drive.google.com/file/d/1FvRbt59645SZ_FpfuyWflcTaBOsbS3Ns/view?usp=sharing)by Cisco (July 15,2024)
 
 ## Tech Achievements
 ### Design Patterns
