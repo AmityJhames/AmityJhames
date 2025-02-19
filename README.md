@@ -7,7 +7,11 @@ Bachelor of Science in Computer Science 2021 - Present
 [Oracle Cloud Infrastracture 2022 Certified Foundations Associate](https://catalog-education.oracle.com/pls/certview/sharebadge?id=00BDD5616E9BB09603B3DC7B9DBBC70E2B768EBF029F3F360B4619ADBF641624) by Oracle (December 12, 2022) <br>
 [SQL and Relational Databases](https://courses.cognitiveclass.ai/certificates/1788119a5ad5406da40a8a96abfd7d9e) by Cognitive Class (November 7, 2022)<br>
 [Data Analytics Essentials](https://drive.google.com/file/d/1cXih4EUlOuZE8Ukz7MINtjbJ6Qjt4KPX/view?usp=sharing) by Cisco (January 2, 2024)<br>
-[Introduction to Data Science](https://drive.google.com/file/d/1FvRbt59645SZ_FpfuyWflcTaBOsbS3Ns/view?usp=sharing) by Cisco (July 15,2024)
+[Introduction to Data Science](https://drive.google.com/file/d/1FvRbt59645SZ_FpfuyWflcTaBOsbS3Ns/view?usp=sharing) by Cisco (July 15,2024)<br>
+[Introduction to Generative AI with Google Cloud](www.udacity.com/certificate/e/ee56275c-b0cc-11ef-bef7-8f36160a77a7) by Udacity (January 1,2025)<br>
+[Discovering Generative AI](www.udacity.com/certificate/e/dc133bbc-c73c-11ef-b2ce-1b382ccd4482) by Udacity (January 1,2025)<br>
+[Generative AI Fundamentals with Google Cloud](www.udacity.com/certificate/e/9bf6b04a-c818-11ef-9c76-83f1afe8e8ea) by Udacity (January 1,2025)<br>
+
 
 ## Tech Achievements
 ### Design Patterns
