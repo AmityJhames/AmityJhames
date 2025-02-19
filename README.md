@@ -8,14 +8,17 @@ Bachelor of Science in Computer Science 2021 - Present
 [SQL and Relational Databases](https://courses.cognitiveclass.ai/certificates/1788119a5ad5406da40a8a96abfd7d9e) by Cognitive Class (November 7, 2022)<br>
 [Data Analytics Essentials](https://drive.google.com/file/d/1cXih4EUlOuZE8Ukz7MINtjbJ6Qjt4KPX/view?usp=sharing) by Cisco (January 2, 2024)<br>
 [Introduction to Data Science](https://drive.google.com/file/d/1FvRbt59645SZ_FpfuyWflcTaBOsbS3Ns/view?usp=sharing) by Cisco (July 15,2024)<br>
-[Introduction to Generative AI with Google Cloud](www.udacity.com/certificate/e/ee56275c-b0cc-11ef-bef7-8f36160a77a7) by Udacity (January 1,2025)<br>
-[Discovering Generative AI](www.udacity.com/certificate/e/dc133bbc-c73c-11ef-b2ce-1b382ccd4482) by Udacity (January 1,2025)<br>
-[Generative AI Fundamentals with Google Cloud](www.udacity.com/certificate/e/9bf6b04a-c818-11ef-9c76-83f1afe8e8ea) by Udacity (January 1,2025)<br>
-[Introduction to Large Language Models with Google Cloud](www.udacity.com/certificate/e/959f5922-c818-11ef-a9e4-1fb1c3600d0f) by Udacity (January 1,2025)<br>
-[Introduction to Responsible AI with Google Cloud](www.udacity.com/certificate/e/e4c55584-c83f-11ef-b38e-7fd0e9b065e6) by Udacity (January 1,2025)<br>
-[Transformer Models and BERT Model with Google Cloud](www.udacity.com/certificate/e/f8bc1e96-c840-11ef-a973-c752845afb2e) by Udacity (January 1,2025)<br>
-[Trust and Security with Google Cloud](www.udacity.com/certificate/e/ed19c476-c840-11ef-a05c-e78cec1770f3) by Udacity (January 1,2025)<br>
-[ Discovering Predictive Analytics with Alteryx](www.udacity.com/certificate/e/f0954dd2-c840-11ef-a05e-6fd80f665aba) by Udacity (January 1,2025)<br>
+[Introduction to Generative AI with Google Cloud](https://www.udacity.com/certificate/e/ee56275c-b0cc-11ef-bef7-8f36160a77a7) by Udacity (January 1,2025)<br>
+[Discovering Generative AI](https://www.udacity.com/certificate/e/dc133bbc-c73c-11ef-b2ce-1b382ccd4482) by Udacity (January 1,2025)<br>
+[Generative AI Fundamentals with Google Cloud](https://www.udacity.com/certificate/e/9bf6b04a-c818-11ef-9c76-83f1afe8e8ea) by Udacity (January 1,2025)<br>
+[Introduction to Large Language Models with Google Cloud](https://www.udacity.com/certificate/e/959f5922-c818-11ef-a9e4-1fb1c3600d0f) by Udacity (January 1,2025)<br>
+[Introduction to Responsible AI with Google Cloud](https://www.udacity.com/certificate/e/e4c55584-c83f-11ef-b38e-7fd0e9b065e6) by Udacity (January 1,2025)<br>
+[Transformer Models and BERT Model with Google Cloud](https://www.udacity.com/certificate/e/f8bc1e96-c840-11ef-a973-c752845afb2e) by Udacity (January 1,2025)<br>
+[Trust and Security with Google Cloud](https://www.udacity.com/certificate/e/ed19c476-c840-11ef-a05c-e78cec1770f3) by Udacity (January 1,2025)<br>
+[Discovering Predictive Analytics with Alteryx](https://www.udacity.com/certificate/e/f0954dd2-c840-11ef-a05e-6fd80f665aba) by Udacity (January 1,2025)<br>
+[Innovating with Google Cloud Artificial Intelligence](https://www.udacity.com/certificate/e/f62444ec-c840-11ef-ac9b-67f31a8517d3) by Udacity (January 1,2025)<br>
+[Introduction to Azure OpenAI Service, AI Models, and Capabilities](https://www.udacity.com/certificate/e/5e704462-c85d-11ef-b006-63139a3ce046) by Udacity (January 1, 2025)<br>
+[Planning a Generaticve AI Project](https://www.udacity.com/certificate/e/5e704462-c85d-11ef-b006-63139a3ce046) by Udacity (January 5, 2025)<br>
 
 
 
