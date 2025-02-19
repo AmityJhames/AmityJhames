@@ -18,7 +18,7 @@ Bachelor of Science in Computer Science 2021 - Present
 [Discovering Predictive Analytics with Alteryx](https://www.udacity.com/certificate/e/f0954dd2-c840-11ef-a05e-6fd80f665aba) by Udacity (January 1,2025)<br>
 [Innovating with Google Cloud Artificial Intelligence](https://www.udacity.com/certificate/e/f62444ec-c840-11ef-ac9b-67f31a8517d3) by Udacity (January 1,2025)<br>
 [Introduction to Azure OpenAI Service, AI Models, and Capabilities](https://www.udacity.com/certificate/e/5e704462-c85d-11ef-b006-63139a3ce046) by Udacity (January 1, 2025)<br>
-[Planning a Generaticve AI Project](https://www.udacity.com/certificate/e/5e704462-c85d-11ef-b006-63139a3ce046) by Udacity (January 5, 2025)<br>
+[Planning a Generaticve AI Project](https://drive.google.com/file/d/1XegRf_VT0iIoyIQkE-RKOo6hHoNITDpd/view?usp=sharing) by AWS training and Certification (January 5, 2025)<br>
 
 
 
